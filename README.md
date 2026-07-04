@@ -95,7 +95,7 @@ npm run deploy
 Production URL:
 
 ```text
-To be added after first Cloudflare Workers deployment.
+https://launchcraft-studio.aashishlabs.workers.dev
 ```
 
 ## Future Changes
