@@ -1,0 +1,13 @@
+{
+  "name": "launchcraft-studio",
+  "version": "1.0.0",
+  "description": "A responsive digital services portal deployed with Cloudflare Workers Static Assets.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --ip 127.0.0.1 --port 8787 --local-protocol http --persist-to .wrangler-config/state --log-level none --show-interactive-dev-session false",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
