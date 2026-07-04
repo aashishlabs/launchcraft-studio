@@ -1,6 +1,6 @@
 # LaunchCraft Studio
 
-A small, responsive one-page digital services website for LaunchCraft Studio.
+Digital services website for LaunchCraft Studio.
 
 ## Services
 
