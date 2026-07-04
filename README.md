@@ -13,25 +13,26 @@ A small, responsive one-page digital services website for LaunchCraft Studio.
 
 ```text
 launchcraft-studio/
-├── index.html
 ├── README.md
 ├── wrangler.jsonc
 ├── package.json
 ├── .gitignore
 ├── .assetsignore
+├── public/
+│   ├── index.html
+│   └── assets/
+│       ├── css/
+│       │   └── style.css
+│       ├── js/
+│       │   └── script.js
+│       └── images/
 ├── src/
 │   └── index.js
-└── assets/
-    ├── css/
-    │   └── style.css
-    ├── js/
-    │   └── script.js
-    └── images/
 ```
 
 ## Local Browser Preview
 
-Open `index.html` directly in your browser.
+Open `public/index.html` directly in your browser.
 
 This tests the static HTML, CSS, and JavaScript files from your computer.
 
