@@ -95,7 +95,7 @@ npm run deploy
 Production URL:
 
 ```text
-https://launchcraft-studio.aashishlabs.workers.dev
+https://launchcraft-studio-builds.aashishlabs.workers.dev/
 ```
 
 ## Future Changes
